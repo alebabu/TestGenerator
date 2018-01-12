@@ -1,0 +1,10 @@
+/Users/aleksandarbabunovic/projects/TestGenerator/TestGenerator/TestGenerator/bin/Debug/netcoreapp1.1/TestGenerator.deps.json
+/Users/aleksandarbabunovic/projects/TestGenerator/TestGenerator/TestGenerator/bin/Debug/netcoreapp1.1/TestGenerator.runtimeconfig.json
+/Users/aleksandarbabunovic/projects/TestGenerator/TestGenerator/TestGenerator/bin/Debug/netcoreapp1.1/TestGenerator.runtimeconfig.dev.json
+/Users/aleksandarbabunovic/projects/TestGenerator/TestGenerator/TestGenerator/bin/Debug/netcoreapp1.1/TestGenerator.dll
+/Users/aleksandarbabunovic/projects/TestGenerator/TestGenerator/TestGenerator/bin/Debug/netcoreapp1.1/TestGenerator.pdb
+/Users/aleksandarbabunovic/projects/TestGenerator/TestGenerator/TestGenerator/obj/Debug/netcoreapp1.1/TestGenerator.csprojResolveAssemblyReference.cache
+/Users/aleksandarbabunovic/projects/TestGenerator/TestGenerator/TestGenerator/obj/Debug/netcoreapp1.1/TestGenerator.csproj.CoreCompileInputs.cache
+/Users/aleksandarbabunovic/projects/TestGenerator/TestGenerator/TestGenerator/obj/Debug/netcoreapp1.1/TestGenerator.AssemblyInfo.cs
+/Users/aleksandarbabunovic/projects/TestGenerator/TestGenerator/TestGenerator/obj/Debug/netcoreapp1.1/TestGenerator.dll
+/Users/aleksandarbabunovic/projects/TestGenerator/TestGenerator/TestGenerator/obj/Debug/netcoreapp1.1/TestGenerator.pdb
